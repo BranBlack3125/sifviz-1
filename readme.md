@@ -29,3 +29,7 @@ This image shows chlorophyll fluorescence over the Corn Belt in the central US i
 [Geoplotlib](https://www.researchgate.net/publication/305983877_Geoplotlib_a_Python_Toolbox_for_Visualizing_Geographical_Data): A Python toolbox that include the capablity to produce heatmaps
 
 [myheatmap](https://myheatmap.com/): example Mapbox geovisualization aimed at heatmapping
+
+**Interface Sketch:**
+
+Included below is a rough sketch outlining the basic configuration of our data viewer. Included are a locator map (upper left), time slider (center left), an output of the selected monitoring station's SIF value over the prescribed time (below time slider), an option to toggle on the Null Earth/Cantabria style animation [link](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-142.85,43.42,3000) vs a more traditonal heatmap view (lower left margin), and a reporting area for monitoring site statistics over time (bottom right quadrant).
